@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hola, mi nombre es Andres Mercado.
+##Ingeniero de Sistemas - Desarollador Junior GeneXus
+
+Soy de [Santa Marta, Colombia][https://goo.gl/maps/avC1f8jxiWWHxVTi6]. Actualmente trabajo como desarrollador junior GeneXus™, llevo año y medio trabajando en esta tecnología que brinda muchas herramientas y soluciones de desarrollo para las empresas, de manera agíl e integrada.
+
+Actualmente estoy aprendiendo JavaScript a través de un bootcamp gratuito dictado por Guillermo Rodas llamado [Undefined Academy] [https://undefined.academy/]. Me interesa mucho el desarrollo web tanto forntend y backend, mi meta es poder aprender lo necesario para ser Dev Web FullStack.
+
+
 
 <!--
 **andresmercado92/andresmercado92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
