@@ -6,7 +6,7 @@ Soy de [Santa Marta, Colombia](https://goo.gl/maps/avC1f8jxiWWHxVTi6). Actualmen
 
 Actualmente estoy aprendiendo JavaScript a través de un bootcamp gratuito dictado por Guillermo Rodas llamado [Undefined Academy](https://undefined.academy/). Me interesa mucho el desarrollo web tanto forntend y backend, mi meta es poder aprender lo necesario para ser Dev Web FullStack.
 
-
+#### Undefined-Shell Prueba con nano
 
 <!--
 **andresmercado92/andresmercado92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
